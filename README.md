@@ -10,7 +10,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=Hey+%F0%9F%91%8B+I'm+Mr-Hacker-2;14+y%2Fo+Cybersecurity+Engineer+%F0%9F%94%90;AI+Builder+%7C+Hacker+%7C+Maker+%F0%9F%A4%96;Same+DNA%2C+Different+Account+%F0%9F%A7%AC;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=Hey+%F0%9F%91%8B+I'm+Mr-Hacker-2;AI+Builder+%7C+Cybersecurity+Learner+%7C+Maker;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -21,15 +21,13 @@
 
 <br/><br/>
 
-[![Age](https://img.shields.io/badge/Age-14-00ff41?style=for-the-badge&logo=cake&logoColor=black)](https://github.com/Mr-Hacker-2)
-[![Role](https://img.shields.io/badge/Role-Cybersecurity%20Engineer-ff0066?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Mr-Hacker-2)
-[![Location](https://img.shields.io/badge/Location-United%20States-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Mr-Hacker-2)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-00ff41?style=for-the-badge)](https://github.com/Mr-Hacker-2)
 [![Repos](https://img.shields.io/badge/Repos-9%2B-f59e0b?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mr-Hacker-2?tab=repositories)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ag976zex)
+[![Projects](https://img.shields.io/badge/Projects-Open%20Source-5865f2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Hacker-2?tab=repositories)
 
 <br/>
 
-> ### *"14 years old. Two accounts. Infinite commits."*
+> ### *"Build, test, learn, repeat."*
 
 </div>
 
@@ -60,19 +58,15 @@
 | | |
 |:---:|:---|
 | 🧑 **Name** | Mr-Hacker-2 |
-| 🎂 **Age** | 14 |
-| ⚙️ **Role** | Cybersecurity Engineer & AI Builder |
+| ⚙️ **Focus** | AI, software development, and cybersecurity learning |
 | 🔗 **Main Account** | [Mr-A-Hacker](https://github.com/Mr-A-Hacker) |
-| 📍 **Location** | United States 🇺🇸 |
-| 🌐 **Website** | [viora-ai.onrender.com](https://viora-ai.onrender.com) |
-| 💬 **Discord** | [discord.gg/ag976zex](https://discord.gg/ag976zex) |
-| 📧 **Email** | abdullahlababidi70@gmail.com |
+| 🌐 **Website** | [Viora AI](https://viora-ai.onrender.com) |
 
 </div>
 
 <br/>
 
-> ⚠️ **Same person as [Mr-A-Hacker](https://github.com/Mr-A-Hacker) — different account, same mission.**
+> **Also building projects on [Mr-A-Hacker](https://github.com/Mr-A-Hacker).**
 
 <br/>
 
